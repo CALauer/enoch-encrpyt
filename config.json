@@ -1,0 +1,8 @@
+{
+  "useKeyStore": true,
+  "encryptionSettings": {
+    "iterations": 215000,
+    "keyLength": 64,
+    "saltSize": 64
+  }
+}
