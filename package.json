@@ -1,6 +1,6 @@
 {
   "name": "enoch-encrypt",
-  "version": "1.0.5",
+  "version": "1.0.51",
   "description": "A Node.js module providing AES-256-GCM encryption with configurable settings.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "security",
     "aes-256-gcm"
   ],
-  "author": "Your Name",
+  "author": "CALauer",
   "license": "MIT",
   "dependencies": {}
 }
